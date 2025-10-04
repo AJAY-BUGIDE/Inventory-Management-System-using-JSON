@@ -1,0 +1,4 @@
+1, Chocolate, 5,0
+2, Milky Bar, 10,25
+3, Cake, 300,0
+4, Candy, 1,120
